@@ -1,0 +1,13 @@
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\bin\Debug\netcoreapp3.1\PruebasDepuracion.exe
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\bin\Debug\netcoreapp3.1\PruebasDepuracion.deps.json
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\bin\Debug\netcoreapp3.1\PruebasDepuracion.runtimeconfig.json
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\bin\Debug\netcoreapp3.1\PruebasDepuracion.runtimeconfig.dev.json
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\bin\Debug\netcoreapp3.1\PruebasDepuracion.dll
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\bin\Debug\netcoreapp3.1\PruebasDepuracion.pdb
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.csprojAssemblyReference.cache
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.AssemblyInfoInputs.cache
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.AssemblyInfo.cs
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.dll
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.pdb
+C:\Users\Mañana\source\repos\PruebasDepuracion\PruebasDepuracion\obj\Debug\netcoreapp3.1\PruebasDepuracion.genruntimeconfig.cache
