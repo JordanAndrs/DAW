@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hazte Socio</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <main>
+        <p><h2>Necesitaremos los datos del tutor legal.</h2></p>
+        <form action="index.html" method="get">
+            <div class="primerosdatos">
+                <div class="flex-container">
+                    <label for="name" class="datos">Nombre</label></br>
+                    <input type="text" id="name" name="Name" maxlength="40" required>
+                </div>
+                <div class="flex-container">
+                    <label for="name" class="datos">Apellido</label></br>
+                    <input type="text" id="Apellido" name="firstsurname" required>
+                </div>
+                <div class="flex-container">
+                    <label for="name" class="datos">Segundo Apellido</label></br>
+                    <input type="text" id="name" name="secondsurname">
+                </div>
+            </div>
+            <div class="segundosdatos">
+                <div class="flex-container">
+                    <label for="bornday" class="datos">Fecha de nacimiento</label>
+                    <input type="date" id="bornday" name="bornday" required>
+                </div>
+                <div class="flex-container">
+                    <label for="DocumentType">Tipo de Documento</label>
+                    <select name="DocumentType" required>
+                        <option value="Seleccione tipo de documento">Seleccione tipo de documento</option>
+                        <option value="NIF">Número de Identificación Fiscal</option>
+                        <option value="NIE">Número de Identificación Extranjeros</option>
+                        <option value="Passport">Pasaporte</option>
+                    </select>
+                </div>
+                <div class="flex-container">
+                    <label for="DocumentNumber">Número del Documento</label>
+                    <input type="text" id="DocumentNumber" name="DocumentNumber" required>
+                </div>
+            </div>
+            <div class="otrosdatos">
+                <div class="flex-container">
+                    <label for="Sex">Sexo</label>
+                    <select name="Sex" required>
+                        <option value="Selecciones el sexo">Seleccione el sexo</option>
+                        <option value="Male">Hombre</option>
+                        <option value="Female">Mujer</option>
+                    </select>
+                </div>
+                <div class="flex-container">
+                    <label for="Telephone">Telefono de Contacto</label>
+                    <input type="text" id="Telephone" name="Telephone" required>
+                </div>
+                <div class="flex-container">
+                    <label for="Language">Idioma comunicados</label>
+                    <select name="Language" required>
+                        <option value="Seleccione un idioma">Seleccione un idioma</option>
+                        <option value="Castellano">Castellano</option>
+                        <option value="Catalán">Catalán</option>
+                    </select>
+                </div>
+            </div>
+            <div class="email">
+                <div class="flex-container">
+                    <label for="Email">Correo Electrónico</label>
+                    <input type="Email" id="Email" name="Email" required>
+                </div>
+                <div class="flex-container">
+                    <label for="Email">Repite Correo Electrónico</label>
+                    <input type="Email" id="Email" name="Email" required>
+                </div>
+            </div>
+        </form>
+    </main>
+</body>
+</html>

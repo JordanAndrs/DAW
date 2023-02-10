@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #e20613;
+    width: 210px;
+    height: 100px;
+    margin-right: 100px;
+}
+.primerosdatos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.datos{
+    margin-bottom: 0,5px;
+    display: flex;
+    flex-direction: column;
+}
+.segundosdatos{
+    display: flex;
+    flex-wrap: wrap;
+}
+.otrosdatos{
+    display: flex;
+    flex-wrap: wrap;
+}
