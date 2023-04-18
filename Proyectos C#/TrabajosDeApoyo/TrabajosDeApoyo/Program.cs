@@ -12,7 +12,7 @@ namespace TrabajosDeApoyo
     {
         static void Main(string[] args)
         {
-            Ej6();
+            Ej7();
             Console.ReadLine();
         }
         static void Ej1()
@@ -49,7 +49,7 @@ namespace TrabajosDeApoyo
 
             Double Fahrenheit = Celsius * 9 / 5 + 32;
             Console.WriteLine("La temperatura en Fahrenheit es: " + Fahrenheit);
-            
+
             Double Kelvin = Celsius + 273.15;
             Console.WriteLine("La temperatura en Kelvin es: " + Kelvin);
         }
@@ -64,8 +64,8 @@ namespace TrabajosDeApoyo
             Double Longitud = ((radio * 2) * 3.1415);
             Console.WriteLine("La longitud de la circunferencia es: " + (Longitud));
 
-            Double área = Math.Pow(radio, 2) * 3.1415;
-            Console.WriteLine("El área de la circunferencia es: " + (área));           
+            Double area = Math.Pow(radio, 2) * 3.1415;
+            Console.WriteLine("El área de la circunferencia es: " + (area));
         }
         static void Ej5()
         {
@@ -104,5 +104,32 @@ namespace TrabajosDeApoyo
 
             Console.WriteLine("Las pesetas introducidas son " + euros + " euros");
         }
+        static void Ej7()
+        {
+            Console.Write("Introduzca el diámetro: ");
+            double diametro = Convert.ToDouble(Console.ReadLine());
+
+            double radio = diametro / 2;
+
+            double Area = 3.14 * Math.Pow(radio, 2);
+
+            Console.WriteLine("El area del circulo es: " + Area);
+        }
+        static void Ej8()
+        {
+            /* Implementar una función que calcule y devuelva el precio de un artículo tras aplicarle un 16% de IVA.
+             El precio del artículo se recibirá como parámetro de entrada*/
+
+            Console.Write("Introduzca el precio sin iva: ");
+            Double precio = Convert.ToDouble(Console.ReadLine());
+
+            Double PrecioEntero = (precio / 1) * 1.16;
+
+            Console.WriteLine("El precio con iva es: " + PrecioEntero);
+        }
+        static void Ej9()
+        {
+            Console.WriteLine("Introduzca los números que quiera: ");
+        } 
     }
 }

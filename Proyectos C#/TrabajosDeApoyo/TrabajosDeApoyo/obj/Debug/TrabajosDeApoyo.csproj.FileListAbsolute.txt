@@ -6,3 +6,11 @@ C:\Users\jorda\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\Tr
 C:\Users\jorda\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.pdb
 C:\Users\jorda\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.exe
 C:\Users\jorda\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.pdb
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.exe.config
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.exe
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.pdb
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.AssemblyReference.cache
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.CoreCompileInputs.cache
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.exe
+C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.pdb
