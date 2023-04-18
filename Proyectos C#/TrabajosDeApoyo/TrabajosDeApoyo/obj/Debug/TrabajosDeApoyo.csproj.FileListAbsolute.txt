@@ -14,3 +14,11 @@ C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\T
 C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.CoreCompileInputs.cache
 C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.exe
 C:\Users\Diurno\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.pdb
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.exe.config
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.exe
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.pdb
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.AssemblyReference.cache
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.CoreCompileInputs.cache
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.exe
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.pdb

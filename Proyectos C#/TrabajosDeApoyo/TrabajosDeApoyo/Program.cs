@@ -12,7 +12,7 @@ namespace TrabajosDeApoyo
     {
         static void Main(string[] args)
         {
-            Ej7();
+            Ej9();
             Console.ReadLine();
         }
         static void Ej1()
@@ -92,7 +92,7 @@ namespace TrabajosDeApoyo
         static void Ej6()
         {
             /* Implementar una función que convierta a euros una determinada cantidad en pesetas que se recibirán como parámetro de 
-               entrada(1 euro = 166.386 pesetas)*/
+               entrada (1 euro = 166.386 pesetas) */
 
             Console.Write("Introduzca el número de pesetas a convertir en euros: ");
 
@@ -106,6 +106,7 @@ namespace TrabajosDeApoyo
         }
         static void Ej7()
         {
+            /* Implementar una función que reciba el diámetro de un círculo y devuelva su área. */
             Console.Write("Introduzca el diámetro: ");
             double diametro = Convert.ToDouble(Console.ReadLine());
 
@@ -129,7 +130,16 @@ namespace TrabajosDeApoyo
         }
         static void Ej9()
         {
-            Console.WriteLine("Introduzca los números que quiera: ");
-        } 
+
+            Console.Write("Introduzca los números que quiera: ");
+            
+            int numero = int.Parse(Console.ReadLine());
+
+            string posicion = Convert.ToString(numero);
+
+            int ultimaPosicion = int.Parse(Convert.ToString(posicion[posicion.Length-1]));
+
+            Console.WriteLine("El último número es: " + ultimaPosicion);
+        }
     }
 }
