@@ -22,3 +22,8 @@ C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\
 C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.csproj.CoreCompileInputs.cache
 C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.exe
 C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.pdb
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.exe.manifest
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\bin\Debug\TrabajosDeApoyo.application
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.TrustInfo.xml
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.exe.manifest
+C:\Users\Mañana\Desktop\Proyectos C#\TrabajosDeApoyo\TrabajosDeApoyo\obj\Debug\TrabajosDeApoyo.application

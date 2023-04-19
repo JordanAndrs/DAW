@@ -12,7 +12,7 @@ namespace TrabajosDeApoyo
     {
         static void Main(string[] args)
         {
-            Ej9();
+            Ej10();
             Console.ReadLine();
         }
         static void Ej1()
@@ -32,11 +32,11 @@ namespace TrabajosDeApoyo
             {
                 if (i % 2 == 0)
                 {
-                    Console.WriteLine("El numero " + i.ToString() + " es par");
+                    Console.WriteLine("El numero " + i + " es par");
                 }
                 else
                 {
-                    Console.WriteLine("El número " + i.ToString() + " es impar");
+                    Console.WriteLine("El número " + i + " es impar");
                 }
             }
         }
@@ -130,7 +130,7 @@ namespace TrabajosDeApoyo
         }
         static void Ej9()
         {
-
+            /* Escribe un programa que diga cuál es la última cifra de un número entero introducido por teclado */
             Console.Write("Introduzca los números que quiera: ");
             
             int numero = int.Parse(Console.ReadLine());
@@ -140,6 +140,22 @@ namespace TrabajosDeApoyo
             int ultimaPosicion = int.Parse(Convert.ToString(posicion[posicion.Length-1]));
 
             Console.WriteLine("El último número es: " + ultimaPosicion);
+        }
+        static void Ej10()
+        {
+            Console.Write("Introduce los segundos: ");
+            int segundos = int.Parse(Console.ReadLine());
+
+            int minutos = segundos / 60;
+            segundos = segundos % 60;
+
+            int horas = minutos / 60;
+            minutos = minutos % 1440;
+
+            int dias = horas / 24;
+            horas = horas % 24;
+
+            Console.WriteLine("Los segundos introducido son: " + dias + " dias " + horas + " horas " + minutos + " minutos " + segundos + " segundos ");
         }
     }
 }
